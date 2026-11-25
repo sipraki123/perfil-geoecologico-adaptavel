@@ -1,0 +1,25 @@
+{
+  "versao": "17.23.2",
+  "status": "Distribuicao experimental; suite automatizada passou no QGIS 3.44.13; instalacao pela interface do Plugin Manager nao verificada nesta rodada.",
+  "ambiente_testado": "QGIS 3.44.13-Solothurn para Windows; instalação ZIP isolada e dados sintéticos",
+  "dados_reais": false,
+  "licenca": "GPL-3.0-or-later",
+  "mudancas_17_23_1": [
+    "Resumo identifica separadamente as versões do complemento e do motor compartilhado.",
+    "Seleção automática do SRC consulta a área de uso publicada e escolhe UTM local quando necessário.",
+    "Fontes originais não são reprojetadas nem substituídas."
+  ],
+  "evidencia": [
+    "Suite automatizada executada com o conteudo do ZIP 17.23.2 no QGIS 3.44.13-Solothurn; resultado AUTOTESTE PERSONALIZADO OK.",
+    "Selecao automatica/manual de SRC passou em cinco casos sinteticos com os arquivos instalados do ZIP 17.23.2.",
+    "A interface do Plugin Manager e o fluxo guiado nao foram verificados; uma instancia QGIS isolada nao abriu como janela controlavel.",
+    "Desenvolvido por Joao Sipraki; projeto pessoal e independente.",
+    "GPL-3.0-or-later cobre o complemento, scripts, dados sinteticos e imagens demonstrativas autorais incluidos.",
+    "Sem marca-dagua obrigatoria nas saidas dos usuarios."
+  ],
+  "limitacoes": [
+    "Testado somente no QGIS 3.44.13 para Windows.",
+    "SRC métrico sem área de uso verificável exige escolha manual.",
+    "A ferramenta não interpreta significado científico nem adequação metodológica dos temas."
+  ]
+}

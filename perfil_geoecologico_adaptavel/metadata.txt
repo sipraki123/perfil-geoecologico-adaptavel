@@ -1,0 +1,14 @@
+[general]
+name=Perfil Geoecológico Adaptável
+qgisMinimumVersion=3.44.13
+qgisMaximumVersion=3.44.99
+description=Gera perfis geoecológicos configuráveis com faixas vetoriais ou raster.
+about=Desenvolvido por João Sipraki. Complemento experimental para perfis configuráveis com temas vetoriais ou raster; consulte a documentação e as limitações conhecidas.
+version=17.23.2
+author=João Sipraki
+license=GPL-3.0-or-later
+email=
+category=Vector
+hasProcessingProvider=yes
+experimental=True
+changelog=17.23.2 - Registra a licença GPL-3.0-or-later, o crédito pessoal e a distribuição independente; sem alteração funcional do processamento. | 17.23.1 - Identifica separadamente no resumo as versões do complemento e do motor compartilhado. | 17.23.0 - Verifica a área de uso declarada do SRC métrico automático e alerta quando uma escolha manual deve ser conferida. | 17.22.9 - Corrige o identificador interno da versão; inclui escolha independente de paletas, classes constantes com valor observado e paleta Azuis.
