@@ -6,9 +6,9 @@ Complemento experimental para QGIS que gera perfis geoecológicos configuráveis
 
 ## Distribuição e instalação
 
-A distribuição corrigida **17.23.2-r3-metadados** está em preparação. A Release anterior foi supersedida e seus anexos não devem ser usados. O link para o pacote revisado será incluído aqui quando a publicação estiver concluída.
+A distribuição atual é a [17.23.2-r3-metadados (pré-lançamento experimental)](https://github.com/sipraki123/perfil-geoecologico-adaptavel/releases/tag/17.23.2-r3-metadados). A Release anterior foi substituída; use somente os anexos da r3.
 
-Na versão revisada, extraia o pacote completo e instale no QGIS somente o ZIP interno `Perfil_Geoecologico_Adaptavel_17.23.2.zip`. Confira o SHA-256 informado junto ao pacote.
+Baixe o pacote completo, confira o SHA-256 e extraia o ZIP. No QGIS, instale somente o ZIP interno `Perfil_Geoecologico_Adaptavel_17.23.2.zip`. Não selecione o pacote externo no instalador de complementos.
 
 O pacote inclui uma demonstração sintética. Seus valores são fictícios e não representam análise ambiental.
 
